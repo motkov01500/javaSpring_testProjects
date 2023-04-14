@@ -9,5 +9,4 @@ public class MapstructtestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MapstructtestApplication.class, args);
 	}
-
 }
