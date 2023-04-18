@@ -1,0 +1,14 @@
+com/mapstruct/mapstructtest/dto/GuestInformationFullNameDTO.class
+com/mapstruct/mapstructtest/mapper/ReservationMapper.class
+com/mapstruct/mapstructtest/dto/GuestInformationDTO.class
+com/mapstruct/mapstructtest/dto/ReservationDTO.class
+com/mapstruct/mapstructtest/mapper/GuestInformationMapperImpl.class
+com/mapstruct/mapstructtest/controller/GuestInformationController.class
+com/mapstruct/mapstructtest/controller/ReservationController.class
+com/mapstruct/mapstructtest/MapstructtestApplication.class
+com/mapstruct/mapstructtest/mapper/ReservationMapperImpl.class
+com/mapstruct/mapstructtest/repository/ReservationRepository.class
+com/mapstruct/mapstructtest/mapper/GuestInformationMapper.class
+com/mapstruct/mapstructtest/entity/GuestInformation.class
+com/mapstruct/mapstructtest/entity/Reservation.class
+com/mapstruct/mapstructtest/repository/GuestInformationRepository.class

@@ -1,0 +1,12 @@
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/dto/ReservationDTO.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/repository/GuestInformationRepository.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/MapstructtestApplication.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/controller/GuestInformationController.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/dto/GuestInformationFullNameDTO.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/entity/Reservation.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/repository/ReservationRepository.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/dto/GuestInformationDTO.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/mapper/ReservationMapper.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/entity/GuestInformation.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/mapper/GuestInformationMapper.java
+/Users/lyuboslavmotkov/Desktop/javaSpring_testProjects/testMapStruct/src/main/java/com/mapstruct/mapstructtest/controller/ReservationController.java

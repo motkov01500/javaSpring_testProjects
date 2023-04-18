@@ -1,6 +1,7 @@
 package com.mapstruct.mapstructtest.entity;
 
 import javax.persistence.*;
+import java.util.Set;
 
 @Entity
 @Table(name = "guest_information")
@@ -24,6 +25,9 @@ public class GuestInformation {
 
     @Column(name = "age")
     private int age;
+
+    @ManyToMany(mappedBy = "guestInformations")
+    private Set<Reservation> reservations;
 
     //region getters
 
@@ -49,6 +53,10 @@ public class GuestInformation {
 
     public int getAge() {
         return age;
+    }
+
+    public Set<Reservation> getReservations() {
+        return reservations;
     }
 
     //endregion

@@ -1,9 +1,21 @@
 package com.mapstruct.mapstructtest.dto;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(value = {"firstName","lastName"})
 public class GuestInformationDTO {
 
     private String firstName;
     private String lastName;
+    private String fullName;
+
+    public String getFullName() {
+        return fullName;
+    }
+
+    public void setFullName(String fullName) {
+        this.fullName = fullName;
+    }
 
     public String getFirstName() {
         return firstName;
