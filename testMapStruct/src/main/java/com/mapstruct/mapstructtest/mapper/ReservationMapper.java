@@ -13,6 +13,7 @@ public interface ReservationMapper {
 
     @AfterMapping
     default void afterMapping(@MappingTarget ReservationDTO reservationDTO) {
-        reservationDTO.getGuestInformations().forEach(guest->guest.setFullName(guest.getFirstName() + " " + guest.getLastName()));
+        reservationDTO.getGuestInformations()
+                .forEach(guest->guest.setFullName(guest.getFirstName() + " " + guest.getLastName()));
     }
 }

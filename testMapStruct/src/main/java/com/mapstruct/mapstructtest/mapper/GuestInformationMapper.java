@@ -10,7 +10,9 @@ import org.mapstruct.Mapping;
 public interface GuestInformationMapper {
 
     GuestInformationDTO guestInformationToDTO(GuestInformation guestInformation);
+
     GuestInformation DTOtoGuestInformation(GuestInformationDTO guestInformationDTO);
+
     @Mapping(target = "fullName", expression = "java(guestInformation.getFirstName() + guestInformation.getLastName())")
     GuestInformationFullNameDTO guestInformationToFullNameDTO(GuestInformation guestInformation);
 }

@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<Rooms>
+    <Room id="1">
+        <numberOfPlaces>2</numberOfPlaces>
+        <pricePerNight>225</pricePerNight>
+        <description>Compact bedrooms are suited for single occupancy or short-stay double occupancy as they have limited space and storage.</description>
+        <facilities>
+            <facility>
+                <id>5</id>
+            </facility>
+        </facilities>
+    </Room>
+    <Room id="2">
+        <numberOfPlaces>2</numberOfPlaces>
+        <pricePerNight>225</pricePerNight>
+        <description>Compact bedrooms are suited for single occupancy or short-stay double occupancy as they have limited space and storage.</description>
+        <facilities>
+            <facility>
+                <id>1</id>
+            </facility>
+        </facilities>
+    </Room>
+</Rooms>
